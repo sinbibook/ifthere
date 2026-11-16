@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-07T11:16:49.350566583Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-16T11:59:14.317359797Z",
     "templateType": "trip_b",
     "propertyId": "d3d1c48f-ad33-4ed4-9767-14e6eef3f02a",
     "homepageId": "01a1ab68-3c38-762e-b5cc-fc159103bae8"
@@ -22,12 +22,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 기준인원 초과 시 추가인원 요금은 현장 결제\n※ 최대인원 초과 입실 불가\n\n[공용바베큐]\n- 이용 장소: 정원 중앙 공용바베큐장(2층 객실), 객실 앞 바베큐장(1층 객실)\n- 제공 구성: 숯, 그릴, 집게, 가위\n- 이용 요금: 2인 20,000원 (1인추가시 5,000원/현장결제)(1박기준/현장결제)\n- 이용 시간: 18:00~21:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 공용 바베큐장 우천 시동절기 이용 가능\n※ 동절기 별도 공간 마련\n※ 기본양념 5종 구비\n※ 숯, 그릴, 전기그릴, 휴대용버너 개인지참 불가\n※ 1층 객실: 객실 앞 바베큐장(개별X)\n\n[석식세트]\n※ 바베큐 세트를 판매합니다.\n※ 메뉴: 백숙, 닭볶음탕, 북어국 등\n※ 가격: 펜션문의\n\n[조식 서비스]\n- 메뉴: 백숙, 닭볶음탕, 북어국 등\n※ 가격: 펜션문의\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 펜션 앞에 계곡이 있습니다.\n- 차량 20분 거리에 마트가 있습니다\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 기준인원 초과 시 추가인원 요금은 현장 결제\n※ 최대인원 초과 입실 불가\n\n[공용바베큐]\n- 이용 장소: 정원 중앙 공용바베큐장(2층 객실), 객실 앞 바베큐장(1층 객실)\n- 제공 구성: 숯, 그릴, 집게, 가위\n- 이용 요금: 2인 20,000원 (1인추가시 5,000원/현장결제)(1박기준/현장결제)\n- 이용 시간: 18:00~21:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 공용 바베큐장 우천 시동절기 이용 가능\n※ 동절기 별도 공간 마련\n※ 기본양념 5종 구비\n※ 숯, 그릴, 전기그릴, 휴대용버너 개인지참 불가\n※ 1층 객실: 객실 앞 바베큐장(개별X)\n\n[석식세트]\n※ 바베큐 세트를 판매합니다.\n※ 메뉴: 백숙, 닭볶음탕, 북어국 등\n※ 가격: 펜션문의\n\n[조식 서비스]\n- 메뉴: 백숙, 닭볶음탕, 북어국 등\n※ 가격: 펜션문의\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 펜션 앞에 계곡이 있습니다.\n- 차량 20분 거리에 마트가 있습니다\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "ifthere.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/297665",
     "ybsId": "64672",
     "tripPropertyId": "1776",
     "partnerType": "distributor_a",
@@ -473,7 +473,7 @@
           {
             "id": "d0877999-2ebf-40ee-ba3f-0db6f122c7e8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/vUNARJgD9xjH.jpg",
-            "sortOrder": 6,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -483,7 +483,7 @@
           {
             "id": "92e7dfcf-3abc-42ed-8230-bec5801a8937",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/gKcw6Z5Gq8yN.jpg",
-            "sortOrder": 7,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -491,7 +491,7 @@
           {
             "id": "de072d8f-ae86-48fc-9759-6e8ad652593e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/hI0PeZ3YvjKg.jpg",
-            "sortOrder": 8,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -499,7 +499,7 @@
           {
             "id": "93b3eace-9d48-4bd9-a601-e674889698ab",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/HsTmpLyBdUoN.jpg",
-            "sortOrder": 9,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -507,7 +507,7 @@
           {
             "id": "923e738a-b2e3-44d9-87da-57cc49064a6a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/29WiF4E5rlIf.jpg",
-            "sortOrder": 10,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -515,7 +515,7 @@
           {
             "id": "e439fa14-476e-45fe-8f6d-d2a2993be2d1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/cLT5QJ69GsfC.jpg",
-            "sortOrder": 11,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -523,7 +523,7 @@
           {
             "id": "480516ba-8899-4f91-a283-526390507d0e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/JyPDSTX8xkaL.jpg",
-            "sortOrder": 12,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -531,7 +531,7 @@
           {
             "id": "4da6cd95-4c56-4fd0-90b0-aa5a360e10d4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/HDQyN2BiMuTX.jpg",
-            "sortOrder": 13,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -539,7 +539,7 @@
           {
             "id": "b66cb689-a5b7-42bb-bba5-29017499d521",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/UxiEbtWC3aRS.jpg",
-            "sortOrder": 14,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -547,7 +547,7 @@
           {
             "id": "67d78ddb-5db5-410a-aa85-6cc1e57b11c7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/dC3lJjG0YSeF.jpg",
-            "sortOrder": 15,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3033,7 +3033,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
